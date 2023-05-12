@@ -1,8 +1,4 @@
-asgiref==3.6.0
-autopep8==2.0.2
-Django==4.1.7
-pycodestyle==2.10.0
-python-dotenv==1.0.0
-sqlparse==0.4.3
-tomli==2.0.1
-tzdata==2023.2
+asgiref==3.5.2
+Django==4.1
+python-dotenv==0.20.0
+sqlparse==0.4.2
