@@ -17,7 +17,7 @@ Projeto realizado visando agregar conhecimento em relação ao Django. Baseado n
 <br>
 
 <p align="center">
-  <img alt="Imagem inicial do site OptimusTech" src="space/static/assets/imagens/preview.png" width="100%">
+  <img alt="Imagem inicial do site Alura Space" src="setup/static/assets/imagens/alura-space-preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
